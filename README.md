@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Rafael Nazario, a Software Developer.
+I am Rafael Nazario, a Software Developer available for hiring.
 
 Feel free to check for my portfolio [here](https://rsnazario.github.io/personal-portfolio/)
 
