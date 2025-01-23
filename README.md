@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 I am Rafael Nazario, a Software Developer available for hiring.
 
-Feel free to check for my portfolio [here](https://rsnazario.github.io/personal-portfolio/)
-
 Reach me on:
   - [Linkedin](https://www.linkedin.com/in/rsnazario/)
-  - [Twitter](https://twitter.com/rsnazario)
   
  Thanks for visiting!
